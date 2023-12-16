@@ -22,3 +22,6 @@ Se describe a detalle todo lo que se va a usar para la creacion del proyecto web
     * #1c8ccc		RGB(28, 140, 204)
     * #FF8C00		RGB(255, 140, 0)
     * #FFFFFF       RGB(255, 255, 255)
+    * #4C1D95       RGB(76, 29, 149)
+    * #000000       RGB(0, 0, 0)	
+    * #556B2F       RGB(85,107,47)
